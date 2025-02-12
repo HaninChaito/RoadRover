@@ -17,7 +17,7 @@
 
 ---
 
-## 📌 Introduction
+## 📌 Overview
 The **BookWaves Library Management System** is designed to streamline and digitize library operations, making it easier to manage books, users, and transactions. This system replaces manual processes with a digital platform, improving efficiency and user experience.
 
 ---
