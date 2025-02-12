@@ -1,0 +1,4 @@
+--patch-module
+LibraryManagementSystem=_
+--add-reads
+LibraryManagementSystem=ALL-UNNAMED
