@@ -87,11 +87,11 @@ The **BookWaves Library Management System** is designed to streamline and digiti
 1. Clone the repository:
    ```sh
    git clone https://github.com/HaninChaito/BookWaves.git
-2. Open the Project in NetBeans
-  -Open NetBeans IDE.
-  -Go to File > Open Project and navigate to the cloned BookWaves directory.
-  -Select the project and click Open.
-3. Run the Project
-   -In the Projects pane, locate the Library.java file (usually under src/main/java or a similar directory).
-    -Right-click on Library.java and select Run File.
+2. Open the Project in NetBeans:
+  - Open NetBeans IDE.
+  - Go to File > Open Project and navigate to the cloned BookWaves directory.
+  - Select the project and click Open.
+3. Run the Project:
+  - In the Projects pane, locate the Library.java file (usually under src/main/java or a similar directory).
+  - Right-click on Library.java and select Run File.
 
